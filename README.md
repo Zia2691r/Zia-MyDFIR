@@ -68,6 +68,7 @@ To build a strong career in Cybersecurity as a Security Analyst where I can:
 
 ## 1. Exploration for CipherText Visuals in Unsecured Cloud Computing
 https://github.com/Zia2691r/Analogous-Exploration-for-CipherText-Visuals-in-Unsecured-Cloud-Computing/tree/main
+
 Description:  
 A cloud security research project focused on protecting visual data stored in unsecured cloud environments using encryption and searchable ciphertext techniques.
 
